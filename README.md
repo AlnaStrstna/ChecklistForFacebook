@@ -1,4 +1,4 @@
-# Checklist for Facebook functions Sign Up, Log In, Forgot Paswword
+# Checklist for Facebook functions Sign Up, Log In, Forgot Password
 
 ## Sign up 
 1. **Smoke test** — valid input.
